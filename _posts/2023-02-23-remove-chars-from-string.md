@@ -43,7 +43,7 @@ WHERE
 
 ## OUTPUT
 
-|`OriginalString`          |`FilteredString`      |
-|--------------------------|----------------------|
-|`String\|With;Charac:ters`|`StringWithCharacters`|
+|OriginalString           |FilteredString      |
+|-------------------------|--------------------|
+|String\|With;Charac:ters |StringWithCharacters|
 
